@@ -6,13 +6,16 @@ int main()
  heehee();
 
     printf("Hello world!\n");
-    return 0;
 
+//develope;
 
 heehee();
 
-
+ return 0;
 
 
 }
 
+void heehee(){
+printf("heehee");
+}

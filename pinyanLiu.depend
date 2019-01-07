@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1546845049 source:c:\users\品言\desktop\計程\pinyanliu\heehee.c
+
+1546845049 source:c:\users\品言\desktop\計程\pinyanliu\main.c
+	<stdio.h>
+	<stdlib.h>
+

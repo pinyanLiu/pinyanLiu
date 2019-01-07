@@ -3,6 +3,10 @@
 
 int main()
 {
+ heehee();
+
     printf("Hello world!\n");
     return 0;
+
 }
+
